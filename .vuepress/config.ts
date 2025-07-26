@@ -9,9 +9,9 @@ export default defineUserConfig({
   bundler: viteBundler(),
   // bundler: webpackBundler(),
   theme: recoTheme({
-    logo: "/logo.png",
+    logo: "/serverlogo.png",
     author: "fsp",
-    authorAvatar: "/head.png",
+    authorAvatar: "/serverlogo.png",
     docsRepo: "https://github.com/tangsu99/fsp-docs",
     docsBranch: "main",
     docsDir: "/",
